@@ -1,4 +1,4 @@
-# portfolio
+# Personal Portfolio
 
 ### Roadmap
 1. Make the website responsive
