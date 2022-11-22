@@ -1,0 +1,77 @@
+{
+    "experiences": [
+        {
+            "company": "Foodi Inc",
+            "link": "/",
+            "title": "Software Engineer Intern",
+            "duration": "Sept 2022 - Present",
+            "desc": [
+                "Developing an app in React Native for foodies to review, share, and discover restaurants",
+                "Enabled users to share restaurants and recommendations over several social media platforms including Instagram, and Twitter",
+                "Implemented real-time searching and filtering of restaurants, a feature requested by over 80% of users, using Algolia search engine",
+                "Utilized AWS Lambda to send users push notifications that update them on new social activity, increasing engagement by 30%"
+            ],
+            "technologies": " JavaScript, TypeScript, React Native, Redux, AWS Amplify, AWS Lambda, AWS Cognito, DynamoDB"
+        },
+        {
+            "company": "Huawei Technologies LTD.",
+            "link": "/",
+            "title": "Software Engineer Intern",
+            "duration": "Jan 2022 - Aug 2022",
+            "desc": [
+                "Expanded the capabilities of MindSpore, an AI computing Framework, by implementing distributed DataFrame APIs in Python and C++",
+                "Achieved up to 80% increased speed in creating a parallelized DataFrame object from a CSV file by developing a distributed FastReadCSV API",
+                "Implemented a unit testing suite and data infrastructure that measures DataFrame API correctness and performance using Pandas Testing Library and Numpy Testing Library"
+            ],
+            "technologies": " C, C++, Python, Pandas, Numpy"
+        },
+        {
+            "company": "LeapThought NZ",
+            "link": "/",
+            "title": "Software Engineer Intern",
+            "duration": "May 2021 - Aug 2021",
+            "desc": [
+                "Improved speed of fetching & displaying JSON data by 15% using ASP.NET web APIs in React and refactoring 30+ SQL queries",
+                "Introduced inline email feature, now used by over 20 organizations, with React, SharePoint APIs, and C# SmtpClient class",
+                "Reduced downtime by 45% and scope for human errors by 20% by automating mass data transfer between SharePoint sites with SharePoint Online Management Shell",
+                "Leveraged PowerShell to query for data above SharePoint’s query threshold without increasing the limit, improving site performance by 80%"
+            ],
+            "technologies": "JavaScript, Java, C#,  SQL, React, ASP.Net, Microsoft SharePoint, Microsoft PowerShell"
+        },
+        {
+            "company": "Kumon North America",
+            "link": "/",
+            "title": "Teacher & Operations Administrator",
+            "duration": "Sept 2016 - Aug 2020",
+            "desc": [
+                "Developed strong teaching skills by instructing over 500 students across various disciplines of mathematics",
+                "Employed interpersonal communication skills through conducting bi-weekly meetings with students and parents to raise service quality, increasing enrollment by 10% and student retention by 40%",
+                "Successfully created a reliable load distribution system during class hours to boost marking speed by 35%"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title":"Member",
+            "desc": [
+                "Developed a scalable mobile app that allows university students to access club services and allows clubs to manage their operations",
+                "Implemented GraphQL APIs in NodeJS to store data in MongoDB and support operations related to Clubs, Users, Memberships, Auth, and Permissions",
+                "Used Apollo Client to connect the front-end React Native app to the backend, hosted on an AWS EC2 instance"
+            ],            
+            "skills": ["JavaScript", "TypeScript", "Node.Js", "Express.Js", "GraphQL", "MongoDB", "React Native", "AWS EC2"],
+            "github": "/",
+            "link": ""
+        },
+        {
+            "title":"Artificial Light Detection and Mapping",
+            "desc": [
+                "Collaborated with a team of 4 to engineer a photometer to measure ambient light levels using an Arduino Uno, photoresistors, and proximity sensors",
+                "Wrote Arduino and Python scripts to collect and analyze data received from photometer over a 3-month period",
+                "Achieved 35% reduced net light usage and installation of dimmers + sectional lights in 15 classes by presenting collected data"
+            ],
+            "skills": ["Arduino", "C/C++", "Python", "Linux", "BASH"],
+            "github": "/",
+            "link": "/"
+        }
+    ]
+}

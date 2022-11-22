@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 10px;
+    padding-top: 50px;
+}
+
+.index {
+    font-size: var(--fz-xxl);
+    font-weight: 400;
+    color: var(--green);
+}
+
+.heading {
+    font-family: var(--font-sans);
+    font-size: var(--fz-heading);
+    color: var(--lightest-slate);
+    font-weight: 600;
+    margin-left: 15px;
+}
+
+.line {
+    flex-grow: 2;
+    height: 2px;
+    background: var(--lightest-navy);
+    align-self: center;
+    margin-left: 25px;
+}
